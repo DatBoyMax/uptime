@@ -22,7 +22,7 @@
     "url": "https://apple.com/",
     "icon": "https://favicons.githubusercontent.com/apple.com",
     "slug": "apple",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 196,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   },
   {
     "name": "YouTube",
