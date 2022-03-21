@@ -22,19 +22,19 @@
     "url": "https://apple.com/",
     "icon": "https://favicons.githubusercontent.com/apple.com",
     "slug": "apple",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 378,
-    "timeWeek": 220,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 233,
+    "timeDay": 344,
+    "timeWeek": 226,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 18
     }
   },
   {
