@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 71,
-    "timeWeek": 89,
+    "timeDay": 95,
+    "timeWeek": 91,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/apple.com",
     "slug": "apple",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "98.78%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 228,
-    "timeDay": 274,
-    "timeWeek": 227,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 218,
+    "timeDay": 80,
+    "timeWeek": 230,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-03-21": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 279,
-    "timeWeek": 325,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 300,
+    "timeDay": 257,
+    "timeWeek": 327,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   }
 ]
